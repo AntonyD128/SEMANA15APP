@@ -1,0 +1,42 @@
+[
+    {
+        "codigo": "004",
+        "nombre": "CASUELA",
+        "precio": 4.3
+    },
+    {
+        "codigo": "001",
+        "nombre": "HAMBURGUESA",
+        "precio": 3.2
+    },
+    {
+        "codigo": "002",
+        "nombre": "PIZZA",
+        "precio": 1.78
+    },
+    {
+        "codigo": "003",
+        "nombre": "ARROZ MARINERO",
+        "precio": 9.0
+    },
+    {
+        "codigo": "007",
+        "nombre": "COMBO BIXBOX",
+        "precio": 15.75
+    },
+    {
+        "codigo": "009",
+        "nombre": "CAMARONES",
+        "precio": 4.44
+    },
+    {
+        "codigo": "010",
+        "nombre": "CALDO DE GALLINA",
+        "precio": 3.75
+    },
+    {
+        "codigo": "008",
+        "nombre": "CAMARONES APANADOS",
+        "precio": 4.5
+    }
+]

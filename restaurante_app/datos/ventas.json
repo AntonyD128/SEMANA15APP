@@ -1,0 +1,50 @@
+[
+    {
+        "identificador": "V001",
+        "usuario_id": "admin",
+        "producto_codigo": "P001",
+        "fecha": "2026-10-01"
+    },
+    {
+        "identificador": "V002",
+        "usuario_id": "Adefaz",
+        "producto_codigo": "P002",
+        "fecha": "2026-10-02"
+    },
+    {
+        "identificador": "V003",
+        "usuario_id": "U001",
+        "producto_codigo": "001",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V004",
+        "usuario_id": "U001",
+        "producto_codigo": "007",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V005",
+        "usuario_id": "U001",
+        "producto_codigo": "010",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V006",
+        "usuario_id": "U001",
+        "producto_codigo": "007",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V007",
+        "usuario_id": "U001",
+        "producto_codigo": "007",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V008",
+        "usuario_id": "U001",
+        "producto_codigo": "001",
+        "fecha": "2026-09-27"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "identificador": "U001",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contrasena":"2026"
+    },
+    {
+        "identificador": "U002",
+        "nombre": "Antony Defaz",
+        "usuario": "Adefaz",
+        "contrasena": "A1B2"
+    }
+]
